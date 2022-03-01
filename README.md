@@ -1,4 +1,4 @@
-# Project 3 - *IgClone*
+# Project 3 - *IgClone/490 Project*
 
 **IgClone** is a photo sharing app similar to Instagram but using Parse as its backend.
 
